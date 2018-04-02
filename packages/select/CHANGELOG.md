@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.0.1"></a>
+## [3.0.1](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.0.0...v3.0.1) (2018-04-02)
+
+
+### Performance Improvements
+
+* **select:** Improving Performance ([61e4006](https://github.com/stevenfitzpatrick/lernawtf/commit/61e4006))
+
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v2.2.3...v3.0.0) (2018-04-02)
 
