@@ -1,4 +1,7 @@
 {
+  "publishConfig": {
+    "access": "public"
+  },
   "name": "@sfitzpatrick/select",
   "version": "1.0.2",
   "main": "index.js",
