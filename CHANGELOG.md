@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.1.2"></a>
+## [2.1.2](https://github.com/stevenfitzpatrick/lernawtf/compare/v2.1.1...v2.1.2) (2018-04-02)
+
+
+### Bug Fixes
+
+* **core:** updating dates  again v10 ([12716cf](https://github.com/stevenfitzpatrick/lernawtf/commit/12716cf))
+* **core:** updating dates  again v11 ([7b4312f](https://github.com/stevenfitzpatrick/lernawtf/commit/7b4312f))
+
+
+
+
 <a name="2.1.1"></a>
 ## [2.1.1](https://github.com/stevenfitzpatrick/lernawtf/compare/v2.1.0...v2.1.1) (2018-04-02)
 
