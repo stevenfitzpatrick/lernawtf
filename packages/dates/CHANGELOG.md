@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.0.2"></a>
+## [3.0.2](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.0.1...v3.0.2) (2018-04-02)
+
+
+
+
+**Note:** Version bump only for package @sfitzpatrick/dates
+
 <a name="2.2.0"></a>
 # [2.2.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v2.1.2...v2.2.0) (2018-04-02)
 
