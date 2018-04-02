@@ -3,7 +3,7 @@
     "access": "public"
   },
   "name": "@sfitzpatrick/select",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "main": "index.js",
   "license": "MIT"
 }
