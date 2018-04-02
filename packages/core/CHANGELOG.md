@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.5.1"></a>
+## [1.5.1](https://github.com/stevenfitzpatrick/lernawtf/compare/core@1.5.0...core@1.5.1) (2018-04-02)
+
+
+### Bug Fixes
+
+* **core:** Updating tables again ([470a973](https://github.com/stevenfitzpatrick/lernawtf/commit/470a973))
+
+
+
+
 <a name="1.5.0"></a>
 # 1.5.0 (2018-04-02)
 
