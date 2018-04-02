@@ -1,5 +1,5 @@
 {
-  "name": "dates",
+  "name": "@sfitzpatrick/dates",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT"
