@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/stevenfitzpatrick/lernawtf/compare/@sfitzpatrick/select@1.0.3...@sfitzpatrick/select@1.0.4) (2018-04-02)
+
+
+### Bug Fixes
+
+* **select:** adding select index files ([0c59ac7](https://github.com/stevenfitzpatrick/lernawtf/commit/0c59ac7))
+
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/stevenfitzpatrick/lernawtf/compare/@sfitzpatrick/select@1.0.2...@sfitzpatrick/select@1.0.3) (2018-04-02)
 
