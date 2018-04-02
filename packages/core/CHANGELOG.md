@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v1.4.0...v2.1.0) (2018-04-02)
+
+
+### Bug Fixes
+
+* **all:** Updating scoped packages ([b54fa26](https://github.com/stevenfitzpatrick/lernawtf/commit/b54fa26))
+* **core:** updating core again ([aecda54](https://github.com/stevenfitzpatrick/lernawtf/commit/aecda54))
+* **core:** Updating tables again ([470a973](https://github.com/stevenfitzpatrick/lernawtf/commit/470a973))
+* **tables:** add index.js again 2 ([d27e0f4](https://github.com/stevenfitzpatrick/lernawtf/commit/d27e0f4))
+
+
+### Features
+
+* **core:** add index.js again 3 ([75314cd](https://github.com/stevenfitzpatrick/lernawtf/commit/75314cd))
+
+
+
+
 <a name="1.6.0"></a>
 # 1.6.0 (2018-04-02)
 

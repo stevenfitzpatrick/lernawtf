@@ -3,7 +3,7 @@
     "access": "public"
   },
   "name": "@sfitzpatrick/core",
-  "version": "1.6.0",
+  "version": "2.1.0",
   "main": "index.js",
   "license": "MIT"
 }
