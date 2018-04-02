@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v2.2.3...v3.0.0) (2018-04-02)
+
+
+### Bug Fixes
+
+* **select:** 
+BREAKING CHANGE: test ([e83fc48](https://github.com/stevenfitzpatrick/lernawtf/commit/e83fc48))
+
+
+* feat(select): ([05fc992](https://github.com/stevenfitzpatrick/lernawtf/commit/05fc992))
+
+
+### BREAKING CHANGES
+
+* testing
+
+
+
+
 <a name="2.2.3"></a>
 ## [2.2.3](https://github.com/stevenfitzpatrick/lernawtf/compare/v2.2.2...v2.2.3) (2018-04-02)
 
