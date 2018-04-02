@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v1.2.0...v1.3.0) (2018-04-02)
+
+
+### Features
+
+* **tables:** add index.js ([9e3c3d2](https://github.com/stevenfitzpatrick/lernawtf/commit/9e3c3d2))
+
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v1.1.0...v1.2.0) (2018-04-02)
 
