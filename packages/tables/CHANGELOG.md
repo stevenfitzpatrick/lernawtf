@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/stevenfitzpatrick/lernawtf/compare/@sfitzpatrick/tables@1.4.3...@sfitzpatrick/tables@1.5.0) (2018-04-02)
+
+
+### Features
+
+* **tables:** updating lerna ([1b06fca](https://github.com/stevenfitzpatrick/lernawtf/commit/1b06fca))
+
+
+
+
 <a name="1.4.3"></a>
 ## [1.4.3](https://github.com/stevenfitzpatrick/lernawtf/compare/@sfitzpatrick/tables@1.4.2...@sfitzpatrick/tables@1.4.3) (2018-04-02)
 
