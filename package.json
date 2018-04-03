@@ -3,9 +3,13 @@
     "clean": "lerna clean",
     "bootstrap": "lerna bootstrap -- --hoist",
     "updated": "lerna updated",
-    "publish": "lerna publish --conventional-commits"
+    "publish": "lerna publish --conventional-commits",
+    "wizard": "lerna-wizard"
   },
   "devDependencies": {
-    "lerna": "^2.9.1"
+    "lerna": "^2.9.1",
+    "lerna-wizard": "^1.0.9",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
   }
 }
