@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.4"></a>
+## [3.1.4](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.3...v3.1.4) (2018-04-03)
+
+
+### Bug Fixes
+
+* test adding dependency to sub packet ([6ee609a](https://github.com/stevenfitzpatrick/lernawtf/commit/6ee609a))
+
+
+
+
 <a name="3.1.3"></a>
 ## [3.1.3](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.2...v3.1.3) (2018-04-03)
 
