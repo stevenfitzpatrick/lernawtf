@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.0"></a>
+# [3.1.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.0.2...v3.1.0) (2018-04-03)
+
+
+### Features
+
+* **core:** Adding Input and Button ([eeac482](https://github.com/stevenfitzpatrick/lernawtf/commit/eeac482))
+
+
+
+
 <a name="3.0.2"></a>
 ## [3.0.2](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.0.1...v3.0.2) (2018-04-02)
 
