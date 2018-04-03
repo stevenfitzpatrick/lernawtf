@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.5"></a>
+## [3.1.5](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.4...v3.1.5) (2018-04-03)
+
+
+### Bug Fixes
+
+* **select:** Testing Publish Message with fixed version ([c3e501b](https://github.com/stevenfitzpatrick/lernawtf/commit/c3e501b))
+
+
+
+
 <a name="3.1.4"></a>
 ## [3.1.4](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.3...v3.1.4) (2018-04-03)
 
