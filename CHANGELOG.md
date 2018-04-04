@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.6"></a>
+## [3.1.6](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.5...v3.1.6) (2018-04-04)
+
+
+### Bug Fixes
+
+* **Button:** Change Button Component ([dc0569c](https://github.com/stevenfitzpatrick/lernawtf/commit/dc0569c))
+
+
+
+
 <a name="3.1.5"></a>
 ## [3.1.5](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.4...v3.1.5) (2018-04-03)
 
