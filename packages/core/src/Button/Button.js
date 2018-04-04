@@ -1,1 +1,2 @@
-const Input = 'Im a button112';
+const Input = 'Im a button1122';
+const Button = 'Im a button1122';
