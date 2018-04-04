@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.7"></a>
+## [3.1.7](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.6...v3.1.7) (2018-04-04)
+
+
+### Bug Fixes
+
+* **Button:** Just making a change ([ffdfde5](https://github.com/stevenfitzpatrick/lernawtf/commit/ffdfde5))
+* **Button:** Remember to login into npm before publishing ([e5ba16a](https://github.com/stevenfitzpatrick/lernawtf/commit/e5ba16a))
+
+
+
+
 <a name="3.1.6"></a>
 ## [3.1.6](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.5...v3.1.6) (2018-04-04)
 
