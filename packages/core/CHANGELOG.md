@@ -3,6 +3,93 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.2.0"></a>
+# [3.2.0](https://github.com/stevenfitzpatrick/lernawtf/compare/@sfitzpatrick/core@1.6.0...@sfitzpatrick/core@3.2.0) (2018-04-04)
+
+
+### Features
+
+* **Button:** Switching to independent ([10df2b3](https://github.com/stevenfitzpatrick/lernawtf/commit/10df2b3))
+
+
+
+<a name="3.1.7"></a>
+## 3.1.7 (2018-04-04)
+
+
+### Bug Fixes
+
+* **Button:** Just making a change ([ffdfde5](https://github.com/stevenfitzpatrick/lernawtf/commit/ffdfde5))
+* **Button:** Remember to login into npm before publishing ([e5ba16a](https://github.com/stevenfitzpatrick/lernawtf/commit/e5ba16a))
+
+
+
+<a name="3.1.6"></a>
+## 3.1.6 (2018-04-04)
+
+
+### Bug Fixes
+
+* **Button:** Change Button Component ([dc0569c](https://github.com/stevenfitzpatrick/lernawtf/commit/dc0569c))
+
+
+
+<a name="3.1.3"></a>
+## 3.1.3 (2018-04-03)
+
+
+
+<a name="3.1.2"></a>
+## 3.1.2 (2018-04-03)
+
+
+
+<a name="3.1.1"></a>
+## 3.1.1 (2018-04-03)
+
+
+### Bug Fixes
+
+* **dates:** Test Adding Dates as a dependency ([d2d97b4](https://github.com/stevenfitzpatrick/lernawtf/commit/d2d97b4))
+
+
+### Features
+
+* **core:** Adding Input and Button ([eeac482](https://github.com/stevenfitzpatrick/lernawtf/commit/eeac482))
+
+
+
+<a name="2.2.0"></a>
+# 2.2.0 (2018-04-02)
+
+
+### Bug Fixes
+
+* **core:** updating dates  again v14 ([519ca9a](https://github.com/stevenfitzpatrick/lernawtf/commit/519ca9a))
+
+
+
+<a name="2.1.2"></a>
+## 2.1.2 (2018-04-02)
+
+
+### Bug Fixes
+
+* **core:** updating dates  again v11 ([7b4312f](https://github.com/stevenfitzpatrick/lernawtf/commit/7b4312f))
+
+
+
+<a name="2.1.0"></a>
+# 2.1.0 (2018-04-02)
+
+
+### Bug Fixes
+
+* **core:** updating core again ([aecda54](https://github.com/stevenfitzpatrick/lernawtf/commit/aecda54))
+
+
+
+
 <a name="3.1.7"></a>
 ## [3.1.7](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.6...v3.1.7) (2018-04-04)
 
