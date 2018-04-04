@@ -3,6 +3,72 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.5"></a>
+## [3.1.5](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.4...v3.1.5) (2018-04-03)
+
+
+### Bug Fixes
+
+* **select:** Testing Publish Message with fixed version ([c3e501b](https://github.com/stevenfitzpatrick/lernawtf/commit/c3e501b))
+
+
+
+
+<a name="3.1.4"></a>
+## [3.1.4](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.3...v3.1.4) (2018-04-03)
+
+
+### Bug Fixes
+
+* test adding dependency to sub packet ([6ee609a](https://github.com/stevenfitzpatrick/lernawtf/commit/6ee609a))
+
+
+
+
+<a name="3.1.3"></a>
+## [3.1.3](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.2...v3.1.3) (2018-04-03)
+
+
+### Bug Fixes
+
+* **dates:** Another test update ([eaecd72](https://github.com/stevenfitzpatrick/lernawtf/commit/eaecd72))
+
+
+
+
+<a name="3.1.2"></a>
+## [3.1.2](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.1...v3.1.2) (2018-04-03)
+
+
+### Bug Fixes
+
+* **dates:** Small Update to test bootstrap ([2e29628](https://github.com/stevenfitzpatrick/lernawtf/commit/2e29628))
+
+
+
+
+<a name="3.1.1"></a>
+## [3.1.1](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.0...v3.1.1) (2018-04-03)
+
+
+### Bug Fixes
+
+* **dates:** Test Adding Dates as a dependency ([d2d97b4](https://github.com/stevenfitzpatrick/lernawtf/commit/d2d97b4))
+
+
+
+
+<a name="3.1.0"></a>
+# [3.1.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.0.2...v3.1.0) (2018-04-03)
+
+
+### Features
+
+* **core:** Adding Input and Button ([eeac482](https://github.com/stevenfitzpatrick/lernawtf/commit/eeac482))
+
+
+
+
 <a name="3.0.2"></a>
 ## [3.0.2](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.0.1...v3.0.2) (2018-04-02)
 

@@ -3,7 +3,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "3.0.2",
+  "version": "3.1.5",
   "npmClient": "yarn",
   "command": {
     "publish": {
@@ -11,7 +11,7 @@
         "ignored-file",
         "*.md"
       ],
-      "message": "chore(release): Publish"
+      "message": "chore(release): Publish %s %v"
     }
   }
 }

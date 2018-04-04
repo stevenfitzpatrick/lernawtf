@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.3"></a>
+## [3.1.3](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.2...v3.1.3) (2018-04-03)
+
+
+
+
+**Note:** Version bump only for package @sfitzpatrick/tables
+
+<a name="3.1.2"></a>
+## [3.1.2](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.1...v3.1.2) (2018-04-03)
+
+
+
+
+**Note:** Version bump only for package @sfitzpatrick/tables
+
+<a name="3.1.1"></a>
+## [3.1.1](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.0...v3.1.1) (2018-04-03)
+
+
+### Bug Fixes
+
+* **dates:** Test Adding Dates as a dependency ([d2d97b4](https://github.com/stevenfitzpatrick/lernawtf/commit/d2d97b4))
+
+
+
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/stevenfitzpatrick/lernawtf/compare/@sfitzpatrick/tables@1.4.3...@sfitzpatrick/tables@1.5.0) (2018-04-02)
 

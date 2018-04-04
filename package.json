@@ -4,12 +4,16 @@
     "commit": "git add . && git cz && git push",
     "bootstrap": "lerna bootstrap -- --hoist",
     "updated": "lerna updated",
-    "publish": "lerna publish --conventional-commits"
+    "publish": "lerna publish --conventional-commits",
+    "wizard": "lerna-wizard"
   },
   "devDependencies": {
     "cz": "^1.8.2",
     "cz-conventional-changelog": "^2.1.0",
-    "lerna": "^2.9.1"
+    "lerna": "^2.9.1",
+    "lerna-wizard": "^1.0.9",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
   },
   "config": {
     "commitizen": {
