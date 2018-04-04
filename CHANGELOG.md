@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.3.0"></a>
+# [3.3.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.7...v3.3.0) (2018-04-04)
+
+
+### Bug Fixes
+
+* **Button:** Back to fixed mode ([21b36a5](https://github.com/stevenfitzpatrick/lernawtf/commit/21b36a5))
+
+
+### Features
+
+* **Button:** Switching to independent ([10df2b3](https://github.com/stevenfitzpatrick/lernawtf/commit/10df2b3))
+
+
+### Performance Improvements
+
+* **Button:** Made some performance improvement ([34cfcd8](https://github.com/stevenfitzpatrick/lernawtf/commit/34cfcd8))
+
+
+
+
 <a name="3.1.7"></a>
 ## [3.1.7](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.1.6...v3.1.7) (2018-04-04)
 
