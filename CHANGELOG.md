@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.5.0"></a>
+# [3.5.0](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.4.2...v3.5.0) (2018-04-05)
+
+
+### Features
+
+* **bigger:** something bigger ([0116389](https://github.com/stevenfitzpatrick/lernawtf/commit/0116389))
+
+
+
+
 <a name="3.4.2"></a>
 ## [3.4.2](https://github.com/stevenfitzpatrick/lernawtf/compare/v3.4.1...v3.4.2) (2018-04-05)
 
