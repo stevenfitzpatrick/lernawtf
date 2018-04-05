@@ -4,7 +4,8 @@
     "commit": "git add . && git cz && git push",
     "bootstrap": "lerna bootstrap -- --hoist",
     "updated": "lerna updated",
-    "publish": "lerna publish --conventional-commits",
+    "publish": "lerna publish",
+    "publish:conventional": "npm run publish -- --conventional-commits",
     "wizard": "lerna-wizard"
   },
   "devDependencies": {
