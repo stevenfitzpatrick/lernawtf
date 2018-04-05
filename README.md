@@ -5,14 +5,14 @@
 In the "consumer" react website
 
 ```javascript
-import Button from '@swrve/Button';
-import LinkButton from '@swrve/LinkButton';
-import IconButton from '@swrve/IconButton';
-import Input from '@swrve/Input';
-import TextArea from '@swrve/Textarea';
-import Select from '@swrve/Select';
-import Table from '@swrve/Table';
-import SortTable from '@swrve/SortTable';
+import Button from "@swrve/Button"
+import LinkButton from "@swrve/LinkButton"
+import IconButton from "@swrve/IconButton"
+import Input from "@swrve/Input"
+import TextArea from "@swrve/Textarea"
+import Select from "@swrve/Select"
+import Table from "@swrve/Table"
+import SortTable from "@swrve/SortTable"
 ```
 
 In the "consumer" package.json
@@ -39,9 +39,9 @@ Samples :
 In the "consumer" react website
 
 ```javascript
-import { Button, LinkButton, IconButton, Input, TextArea } from '@swrve/core';
-import { Select } from '@swrve/select';
-import { Table, SortTable } from '@swrve/table';
+import { Button, LinkButton, IconButton, Input, TextArea } from "@swrve/core"
+import { Select } from "@swrve/select"
+import { Table, SortTable } from "@swrve/table"
 ```
 
 In the "consumer" package.json
@@ -70,7 +70,7 @@ import {
   Select,
   Table,
   SortTable
-} from '@swrve/ui';
+} from "@swrve/ui"
 ```
 
 In the "consumer" package.json
@@ -83,7 +83,8 @@ In the "consumer" package.json
 
 Samples (Not Lerna) :
 
-* React Bootstrap (https://github.com/react-bootstrap/react-bootstrap)
+* React Bootstrap (https://github.com/reactstrap/reactstrap)
+* Remove Unused imports (https://github.com/GoogleChromeLabs/webpack-libs-optimizations#react-bootstrap)
 
 # Lerna Versioning
 
